@@ -17,7 +17,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone (https://github.com/mibienpanjoe/Nike-Landing-page.git)
+   git clone https://github.com/mibienpanjoe/Nike-Landing-page.git
    cd nike-landing-page
    ```
 
