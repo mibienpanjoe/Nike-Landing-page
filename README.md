@@ -41,7 +41,7 @@
   - ES7+ React/Redux/React-Native snippets
   - Tailwind CSS IntelliSense
   - Prettier - Code formatter
-  - Auto Rename Tag
+
 
 ### Project Structure
 ```
