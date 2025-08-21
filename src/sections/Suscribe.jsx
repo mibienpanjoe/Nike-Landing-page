@@ -14,7 +14,7 @@ const Subscribe = () => {
         <input type='text' placeholder=' subscribe@nike.com' className='input input-p' />
         <div className='flex max-sm:justify-end items-center max-sm:w-full'>
           <a href=""></a>
-          <button className="flex justify-center items-center gap-2 p-btn border lg:p-btn-xl font-montserrat text-lg leading-none rounded-full transition-all duration-200 bg-coral-red text-white cursor-pointer "> Sign Up</button>
+          <button className="flex justify-center items-center gap-2 p-btn border lg:p-btn-xl font-montserrat text-lg leading-none rounded-full transition-all duration-200 bg-coral-red text-white cursor-pointer max-sm:m-auto "> Sign Up</button>
         </div>
       </div>
     </section>
